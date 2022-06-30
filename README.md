@@ -6,7 +6,7 @@ ___
 {
   "name": "Luis Herrera",
   "age": 24,
-  "city": "Santa Marta,
+  "city": "Santa Marta",
   "country":"Colombia",
   "ocupation": "Software Developer",
   "titles": "Software Engineer"
