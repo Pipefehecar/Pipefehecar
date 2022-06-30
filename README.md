@@ -5,7 +5,7 @@ ___
 ```json
 {
   "name": "Luis Herrera",
-  "age":"24",
+  "age": 24,
   "city": "Santa Marta,
   "country":"Colombia",
   "ocupation": "Software Developer",
