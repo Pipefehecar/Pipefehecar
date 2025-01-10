@@ -127,7 +127,7 @@ ___
 ![testing][TESTING_BADGE]
 ![solid][SOLID_BADGE]
 
-## 💹 GitHub Analytics
+<!-- ## 💹 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Pipefehecar">
@@ -146,8 +146,7 @@ ___
   <a href="https://github.com/Pipefehecar">
     <img src="https://github-profile-trophy.vercel.app/?username=Pipefehecar&theme=tokyonight&no-frame=true&row=1&column=7"/>
   </a>
-</p>
-
+</p> -->
 <details>
   <summary>📈 Contribution Graph</summary>
   <br/>
